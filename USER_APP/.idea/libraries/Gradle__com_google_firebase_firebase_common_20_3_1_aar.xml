@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-common:20.3.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/663410c1c6103a6dd7a345d877c5c919/transformed/jetified-firebase-common-20.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/663410c1c6103a6dd7a345d877c5c919/transformed/jetified-firebase-common-20.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/663410c1c6103a6dd7a345d877c5c919/transformed/jetified-firebase-common-20.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
